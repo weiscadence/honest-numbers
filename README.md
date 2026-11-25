@@ -16,3 +16,5 @@ python3 stamp-numbers.py ledger.json README.md          # dry run: show what wou
 python3 stamp-numbers.py ledger.json README.md --write
 ```
 Run both on a daily schedule and commit only when the diff isn't empty. To track a different author, edit `AUTHORS`. Live example: [weiscadence profile README](https://github.com/weiscadence/weiscadence).
+
+> Moved: this now lives in [weiscadence/agent-tools](https://github.com/weiscadence/agent-tools) (honest-numbers/), alongside merge-kit.
