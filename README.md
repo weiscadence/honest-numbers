@@ -1,3 +1,5 @@
+> **Moved to https://github.com/weiscadence/merge-guide/tree/main/honest-numbers**. This repository is archived and read-only.
+
 # honest-numbers
 
 Stale counts in READMEs, grant applications and handoffs are a quiet way to be wrong. This repo has two scripts so that no number gets typed by hand.
